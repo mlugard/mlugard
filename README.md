@@ -1,7 +1,7 @@
 ### Hello world 👋
 
 - 💻 I’m currently working on my personal portfolio
-- 📚 I’m currently learning: HTML & CSS, Javascript, Spring, React and MySQL
+- 📚 I’m currently learning: HTML & CSS, Javascript, Spring, React, SASS, Bootstrap and MySQL
 - 💡 I want to share all the knowledge I acquire so that more people fall in love with technology
 - 📱 How to reach me: @mlugard_ (instagram) / mlugard (linkedin)
 - ⚡ Fun fact: I'm not crative with my usernames 😅
