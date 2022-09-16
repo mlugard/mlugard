@@ -1,7 +1,7 @@
 ### Hello world 👋
 
 - 💻 I’m currently working on my personal portfolio
-- 📚 I’m currently learning: HTML & CSS, Javascript, NodeJS, TypeScript, React and MySQL
+- 📚 I’m currently learning: HTML & CSS, Javascript, Spring, React and MySQL
 - 💡 I want to share all the knowledge I acquire so that more people fall in love with technology
 - 📱 How to reach me: @mlugard_ (instagram) / mlugard (linkedin)
 - ⚡ Fun fact: I'm not crative with my usernames 😅
@@ -13,7 +13,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
